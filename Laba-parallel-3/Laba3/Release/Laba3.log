@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (Release\) содержит файлы, которые используются совместно с другим проектом (Laba3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Laba-parallel-3.cpp
+C:\Users\Marishka\Desktop\code\Mironuk\Laba-parallel-3\Laba3\Laba-parallel-3.cpp(77,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 178 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Laba3.vcxproj -> C:\Users\Marishka\Desktop\code\Mironuk\Laba-parallel-3\Release\Laba-parallel-3.exe
